@@ -82,7 +82,7 @@ namespace WinFormsChartSamples
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(702, 34);
             this.label9.TabIndex = 0;
-            this.label9.Text = "This sample demonstrates how to bind XML data to a Chart control. ";
+            this.label9.Text = "This sample emonstrates how to bind XML data to a Chart control.";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // panel1

@@ -324,8 +324,8 @@ namespace WinFormsChartSamples
             this.label5.Size = new System.Drawing.Size(702, 56);
             this.label5.TabIndex = 3;
             this.label5.Text = "Filtering criteria is defined by comparing the selected X or Y value against a sp" +
-                "ecified constant value. Points can be removed if they match or do not match the " +
-                "filtering criteria. ";
+                "ecified constant value.points an be removed if they match or do not match the " +
+                "filtering criteria.";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // FilterYValuesRange

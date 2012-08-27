@@ -84,7 +84,7 @@ namespace WinFormsChartSamples
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(702, 24);
             this.label9.TabIndex = 0;
-            this.label9.Text = "This sample shows how to assign data to a chart series using a DataView object. ";
+            this.label9.Text = "This sample shows how to assign data to a chart series using a DataView object.";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
@@ -208,8 +208,8 @@ namespace WinFormsChartSamples
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(702, 40);
             this.label1.TabIndex = 20;
-            this.label1.Text = "Both the X and Y data values are bound to the chart using a DataView object, whic" +
-                "h is created from an Access database. ";
+            this.label1.Text = "Both the X and Y data values are bound to the chart using a DataView object, whic" +
+                "h is created from an Access database.";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // DatabaseDataview

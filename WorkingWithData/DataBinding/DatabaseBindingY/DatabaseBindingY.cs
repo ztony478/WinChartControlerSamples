@@ -212,8 +212,8 @@ namespace WinFormsChartSamples
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(702, 40);
             this.label1.TabIndex = 20;
-            this.label1.Text = "The Y data value is bound to the chart using OleDb and an Access database, and th" +
-                "e data is selected using a simple SQL query. ";
+            this.label1.Text = "The Y data value is bound to the chart using OleDb and can Access database, and " +
+                "e data is selected using a simple SQL query.";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // DatabaseBindingY
